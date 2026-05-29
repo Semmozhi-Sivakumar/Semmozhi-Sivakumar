@@ -1,4 +1,5 @@
-<img width="600" height="240" alt="SEMMOZHI" src="https://github.com/user-attachments/assets/f7a3d853-c9e6-4416-93f1-2127b182835e" />
+<img width="1280" height="640" alt="semmozhiss" src="https://github.com/user-attachments/assets/1b626e1e-f5b9-454a-8aff-1f62877535f0" />
+
 
 # Hi 👋 I'm Semmozhi
 
