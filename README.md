@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1001&color=F70000&background=2C2B2E00&width=435&lines=CLOUD+LEARNER++;PYTHON+DEVELOPER;AWS+BEGGINER)](https://git.io/typing-svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhi-Sivakumar&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=semmozhi&show_icons=true&theme=tokyonight)
 
 # Hi 👋 I'm Semmozhi
 
