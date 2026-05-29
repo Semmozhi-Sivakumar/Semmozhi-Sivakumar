@@ -5,6 +5,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Semmozhi-Sivakumar)](https://git.io/streak-stats)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhi-Sivakumar&theme=github_dark" />
+
 # Hi 👋 I'm Semmozhi
 
 🌩️ Cloud Computing Learner  
