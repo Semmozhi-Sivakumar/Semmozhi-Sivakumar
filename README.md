@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1001&color=F70000&background=2C2B2E00&width=435&lines=CLOUD+LEARNER++;PYTHON+DEVELOPER;AWS+BEGGINER)](https://git.io/typing-svg)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Semmozhi-Sivakumar)](https://git.io/streak-stats)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhi-Sivakumar&theme=github_dark" />
 
