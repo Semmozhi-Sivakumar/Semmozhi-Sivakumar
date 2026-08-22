@@ -1,6 +1,14 @@
 <img width="1280" height="640" alt="SEMMOZHI GITHUB" src="https://github.com/user-attachments/assets/c13608b9-83c8-4b19-ac6c-2d836108b89f" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEMMOZHI-SIVAKUMAR&show_icons=true&theme=radical" />
+<br>
+
+<h1 align="center">Hi 👋, I'm SEMMOZHI SIVAKUMAR</h1>
+
+<h3 align="center">Python Developer | AWS & Cloud Enthusiast | Aspiring Cloud Engineer</h3>
+
+<p align="center">
+  🌱 Currently learning Python, AWS, DevOps & Atificial Intelligence
+</p>
 
 
 
