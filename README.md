@@ -47,7 +47,24 @@ CONTRIBUTION STREAK:
     <img src="https://streak-stats.demolab.com/?user=Semmozhi-Sivakumar&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
+BADGES:
+<br>
 
+<h2 align="center">🏆 Profile Badges</h2>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
 
 
 
