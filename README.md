@@ -10,6 +10,15 @@
   🌱 Currently learning Python, AWS, DevOps & Atificial Intelligence
 </p>
 
+TECHNOLOGY STACK
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,aws,git,github" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,docker" />
+</p>
 
 
 
