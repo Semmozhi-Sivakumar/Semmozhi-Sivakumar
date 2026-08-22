@@ -66,6 +66,18 @@ BADGES:
 
 </p>
 
+FEATURED PROJECT:
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/Semmozhi-Sivakumar/runbook-agent">
+  <img src="https://img.shields.io/badge/🤖%20AI--Powered%20Runbook%20Agent-View%20Project-6A5ACD?style=for-the-badge" />
+</a>
+
+</p>
 
 
 
