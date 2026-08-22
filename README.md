@@ -43,14 +43,10 @@ CONTRIBUTION STREAK:
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Semmozhi-Sivakumar&theme=github-dark" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Semmozhi-Sivakumar&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
-
-
-
-
-
-
 
 
 
