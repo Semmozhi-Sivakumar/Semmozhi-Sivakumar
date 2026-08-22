@@ -28,7 +28,14 @@ TECHNOLOGY STACK
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Semmozhi-Sivakumar&theme=github_dark" />
 </p>
 
+TOP LANGUAGES USED:
+<br>
 
+<h2 align="center">💻 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhi-Sivakumar&theme=github_dark" />
+</p>
 
 
 
