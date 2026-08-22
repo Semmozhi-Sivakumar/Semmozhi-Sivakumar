@@ -10,7 +10,7 @@
   🌱 Currently learning Python, AWS, DevOps & Atificial Intelligence
 </p>
 
-TECHNOLOGY STACK
+TECHNOLOGY STACK:
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -37,6 +37,14 @@ TOP LANGUAGES USED:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhi-Sivakumar&theme=github_dark" />
 </p>
 
+CONTRIBUTION STREAK:
+<br>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Semmozhi-Sivakumar&theme=github-dark" />
+</p>
 
 
 
